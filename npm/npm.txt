@@ -1,0 +1,6 @@
+1. npm init -y
+2. npm install express sequelize mysql2
+3. npm install @faker-js/faker
+4. npm install -D
+5. npm install nodemon
+6. npm i morgan
